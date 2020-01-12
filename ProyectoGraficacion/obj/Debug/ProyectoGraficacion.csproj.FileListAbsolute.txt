@@ -1,0 +1,90 @@
+C:\Users\ALANZON\source\repos\ProyectoGraficacion\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe.config
+C:\Users\ALANZON\source\repos\ProyectoGraficacion\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe
+C:\Users\ALANZON\source\repos\ProyectoGraficacion\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.pdb
+C:\Users\ALANZON\source\repos\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csprojResolveAssemblyReference.cache
+C:\Users\ALANZON\source\repos\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Form1.resources
+C:\Users\ALANZON\source\repos\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Properties.Resources.resources
+C:\Users\ALANZON\source\repos\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csproj.GenerateResource.Cache
+C:\Users\ALANZON\source\repos\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csproj.CoreCompileInputs.cache
+C:\Users\ALANZON\source\repos\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.exe
+C:\Users\ALANZON\source\repos\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.pdb
+D:\ProyectoGraficacion\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe.config
+D:\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.exe
+D:\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.pdb
+D:\ProyectoGraficacion\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe
+D:\ProyectoGraficacion\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.pdb
+D:\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csprojResolveAssemblyReference.cache
+D:\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Form1.resources
+D:\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Properties.Resources.resources
+D:\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csproj.GenerateResource.Cache
+C:\Users\ALANZON\Desktop\ProyectoGraficacion\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe.config
+C:\Users\ALANZON\Desktop\ProyectoGraficacion\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe
+C:\Users\ALANZON\Desktop\ProyectoGraficacion\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.pdb
+C:\Users\ALANZON\Desktop\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csprojResolveAssemblyReference.cache
+C:\Users\ALANZON\Desktop\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Form1.resources
+C:\Users\ALANZON\Desktop\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Properties.Resources.resources
+C:\Users\ALANZON\Desktop\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csproj.GenerateResource.Cache
+C:\Users\ALANZON\Desktop\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csproj.CoreCompileInputs.cache
+C:\Users\ALANZON\Desktop\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.exe
+C:\Users\ALANZON\Desktop\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.pdb
+C:\Users\ALANZON\Documents\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csprojResolveAssemblyReference.cache
+C:\Users\ALANZON\Documents\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Form1.resources
+C:\Users\ALANZON\Documents\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Properties.Resources.resources
+C:\Users\ALANZON\Documents\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csproj.GenerateResource.Cache
+C:\Users\ALANZON\Documents\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csproj.CoreCompileInputs.cache
+C:\Users\ALANZON\Documents\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.exe
+C:\Users\ALANZON\Documents\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.pdb
+C:\Users\ALANZON\Documents\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe.config
+C:\Users\ALANZON\Documents\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe
+C:\Users\ALANZON\Documents\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.pdb
+C:\Users\ALANZON\Documents\ESCUELA\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe.config
+C:\Users\ALANZON\Documents\ESCUELA\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe
+C:\Users\ALANZON\Documents\ESCUELA\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.pdb
+C:\Users\ALANZON\Documents\ESCUELA\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csprojResolveAssemblyReference.cache
+C:\Users\ALANZON\Documents\ESCUELA\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Form1.resources
+C:\Users\ALANZON\Documents\ESCUELA\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Properties.Resources.resources
+C:\Users\ALANZON\Documents\ESCUELA\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csproj.GenerateResource.Cache
+C:\Users\ALANZON\Documents\ESCUELA\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csproj.CoreCompileInputs.cache
+C:\Users\ALANZON\Documents\ESCUELA\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.exe
+C:\Users\ALANZON\Documents\ESCUELA\DESMADRE Y MEDIO\ProyectoGraficacion\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.pdb
+C:\Users\ALANZON\Desktop\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe.config
+C:\Users\ALANZON\Desktop\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe
+C:\Users\ALANZON\Desktop\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.pdb
+C:\Users\ALANZON\Desktop\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csprojResolveAssemblyReference.cache
+C:\Users\ALANZON\Desktop\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Form1.resources
+C:\Users\ALANZON\Desktop\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Properties.Resources.resources
+C:\Users\ALANZON\Desktop\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csproj.GenerateResource.Cache
+C:\Users\ALANZON\Desktop\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csproj.CoreCompileInputs.cache
+C:\Users\ALANZON\Desktop\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.exe
+C:\Users\ALANZON\Desktop\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.pdb
+D:\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe.config
+D:\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.exe
+D:\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.pdb
+D:\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe
+D:\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.pdb
+D:\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csprojResolveAssemblyReference.cache
+D:\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Form1.resources
+D:\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Properties.Resources.resources
+D:\Graficacion\ProyectoGraficacionO\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csproj.GenerateResource.Cache
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe.config
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.pdb
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csprojResolveAssemblyReference.cache
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Form1.resources
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Properties.Resources.resources
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csproj.GenerateResource.Cache
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csproj.CoreCompileInputs.cache
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.exe
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.pdb
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.frmAyuda.resources
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5 2017\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe.config
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5 2017\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.exe
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5 2017\ProyectoGraficacion\bin\Debug\ProyectoGraficacion.pdb
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5 2017\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csprojResolveAssemblyReference.cache
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5 2017\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Form1.resources
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5 2017\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.frmAyuda.resources
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5 2017\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.Properties.Resources.resources
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5 2017\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csproj.GenerateResource.Cache
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5 2017\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.csproj.CoreCompileInputs.cache
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5 2017\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.exe
+C:\Users\ALANZON\Dropbox\iGraficacion\Castillo Alan - ProyectoGraficacion - 3-5 2017\ProyectoGraficacion\obj\Debug\ProyectoGraficacion.pdb
